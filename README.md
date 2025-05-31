@@ -34,9 +34,9 @@ Loan Distribution by Gender/Nationality
 
 Account-Wise Balances (Savings, Checking, Foreign Currency)
 
-Client Engagement Duration
+#Client Engagement Duration
 
-#Dashboard Views
+Dashboard Views
 Home – High-level banking metrics and total client base
 
 Loan Analysis – Loan volumes, credit card balances, business lending patterns
